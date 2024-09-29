@@ -12,44 +12,76 @@
 <body>
     <header>
         <div class="logo">
-            <img src="logo.png" alt="">
+            <img src="logo.png" alt="Logo">
         </div>
         <h1>Hi, Welcome!</h1>
-        <p>First time here? <span class="text-white">Sign up for free</span></p>
     </header>
-    <form action="login.html">
-
+    
+    <form id="signupForm" action="login.html" onsubmit="return validateForm()">
+        
+        <!-- Email Input with Basic Validation -->
         <input 
         type="email" 
         name="email" 
-        placeholder="Your email"
+        placeholder="Your email" 
+        pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$" 
+        title="Please enter a valid email address (e.g. example@domain.com)"
         required>
-
+        
+        <!-- Password Input with Requirements -->
         <input 
         type="password" 
         name="password" 
+        id="password"
         placeholder="Password"
-        minlength="6"
+        minlength="8"
+        title="Password must be at least 8 characters long and include at least one uppercase letter, one number, and one special character."
         required>
-        <p>Password must be at least 6 characters</p>
 
+        <p>Password must be at least 8 characters and contain one uppercase, one lowercase, one number, and one special character</p>
+        
+        <!-- Confirm Password -->
         <input 
         type="password" 
-        name="password" 
+        name="confirmPassword" 
+        id="confirmPassword"
         placeholder="Re-Enter Password"
-        minlength="6"
         required>
-        <p>Re-Enter the same Password</p>
-
+        <p>Please Re-enter your Password for Verification</p>
+        
         <button type="submit">Sign Up</button>
 
         <a href="index.html" target="_parent" style="color: white;">Sign in using magic link</a>
         <div class="or">or</div>
         <button class="sso" type="button">Login with phone number</button>
         <p>
-            We acknowledge that you have read, and agree, to our <a href="tos.html" target="_blank">Terms of Service</a> and our <a href="pp.html" target="_blank">Privacy Policy</a>.
+            We acknowledge that you have read, and agree, to our <a href="tos.html" target="_blank" style="color: white;">Terms of Service</a> and our <a href="pp.html" target="_blank" style="color: white;">Privacy Policy</a>.
         </p>
     </form>
+
+    <script>
+        // JavaScript validation for password strength and matching passwords
+        function validateForm() {
+            const password = document.getElementById('password').value;
+            const confirmPassword = document.getElementById('confirmPassword').value;
+            const passwordPattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&#])[A-Za-z\d@$!%*?&#]{8,}$/;
+
+            // Check if password matches the strength pattern
+            if (!passwordPattern.test(password)) {
+                alert('Password must be at least 8 characters long, contain one uppercase letter, one lowercase letter, one number, and one special character.');
+                return false;
+            }
+
+            // Check if password and confirm password match
+            if (password !== confirmPassword) {
+                alert('Passwords do not match!');
+                return false;
+            }
+
+            return true; // If both checks pass, form can be submitted
+        }
+    </script>
+
 </body>
 
 </html>
