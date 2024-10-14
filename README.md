@@ -57,30 +57,30 @@ The platform is built using the Bootstrap framework for responsive design and us
 <table>
   <tr>
     <td>
-      <img src="./images/homepage.png" alt="Home Page" width="200"/>
+      <img src="./images/Homepage.png" alt="Home Page" width="200"/>
       <p align="center"><b>Home Page</b></p>
     </td>
     <td>
-      <img src="./images/signin.png" alt="Sign In Page" width="200"/>
-      <p align="center"><b>Sign In Page</b></p>
+      <img src="./images/Registration Page.png" alt="Registration Page" width="200"/>
+      <p align="center"><b>Registration Page</b></p>
     </td>
     <td>
-      <img src="./images/registration.png" alt="Registration Page" width="200"/>
-      <p align="center"><b>Registration Page</b></p>
+      <img src="./images/Login Page.png" alt="Sign In Page" width="200"/>
+      <p align="center"><b>Sign In Page</b></p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./images/dashboard.png" alt="Dashboard" width="200"/>
-      <p align="center"><b>Dashboard</b></p>
+      <img src="./images/User Dashboard.png" alt="Dashboard" width="200"/>
+      <p align="center"><b>USer Dashboard</b></p>
     </td>
     <td>
-      <img src="./images/profile.png" alt="Profile Page" width="200"/>
-      <p align="center"><b>Profile Page</b></p>
+      <img src="./images/Writers Dashboard.png" alt="Dashboard" width="200"/>
+      <p align="center"><b>Writer Dashboard</b></p>
     </td>
     <td>
-      <img src="./images/settings.png" alt="Settings Page" width="200"/>
-      <p align="center"><b>Settings Page</b></p>
+      <img src="./images/Update Profile.png" alt="Settings Page" width="200"/>
+      <p align="center"><b>Profile Update Page</b></p>
     </td>
   </tr>
 </table>
