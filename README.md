@@ -55,7 +55,7 @@ The platform is built using the Bootstrap framework for responsive design and us
 ## Project Screenshots
 
 <table>
-  <tr style="background-color: #f0f0f0;">
+  <tr style="background-color: #00FFFF;">
     <td>
       <img src="./images/Homepage.png" alt="Home Page" width="350"/>
       <p align="center"><b>Home Page</b></p>
