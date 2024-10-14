@@ -54,31 +54,31 @@ The platform is built using the Bootstrap framework for responsive design and us
 ## Screenshots
 ## Project Screenshots
 
-<table>
-  <tr">
-    <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="background-color: transparent; border: none;">
+    <td style="border: none;">
       <img src="./images/Homepage.png" alt="Home Page" width="350"/>
       <p align="center"><b>Home Page</b></p>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="./images/RegistrationPage.png" alt="Registration Page" width="350"/>
       <p align="center"><b>Registration Page</b></p>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="./images/LoginPage.png" alt="Sign In Page" width="350"/>
       <p align="center"><b>Sign In Page</b></p>
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr style="background-color: transparent; border: none;">
+    <td style="border: none;">
       <img src="./images/UserDashboard.png" alt="User Dashboard" width="350"/>
       <p align="center"><b>User Dashboard</b></p>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="./images/WritersDashboard.png" alt="Writer Dashboard" width="350"/>
       <p align="center"><b>Writer Dashboard</b></p>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="./images/UpdateProfile.png" alt="Profile Update Page" width="350"/>
       <p align="center"><b>Profile Update Page</b></p>
     </td>
