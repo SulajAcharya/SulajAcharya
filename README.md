@@ -65,7 +65,7 @@ The platform is built using the Bootstrap framework for responsive design and us
       <p align="center"><b>Registration Page</b></p>
     </td>
     <td>
-      <img src="./images/Login Page.png" alt="Sign In Page" width="350"/>
+      <img src="./images/LoginPage.png" alt="Sign In Page" width="350"/>
       <p align="center"><b>Sign In Page</b></p>
     </td>
   </tr>
