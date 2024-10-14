@@ -57,7 +57,7 @@ The platform is built using the Bootstrap framework for responsive design and us
 <table>
   <tr>
     <td>
-      <img src="./images/Homepage.png" alt="Home Page" width="200"/>
+      <img src="images/Homepage.png" alt="Home Page" width="200"/>
       <p align="center"><b>Home Page</b></p>
     </td>
     <td>
