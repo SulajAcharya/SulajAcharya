@@ -61,25 +61,53 @@ The platform is built using the Bootstrap framework for responsive design and us
       <p align="center"><b>Home Page</b></p>
     </td>
     <td>
-      <img src="./images/Registration Page.png" alt="Registration Page" width="200"/>
+      <img src="./images/RegistrationPage.png" alt="Registration Page" width="200"/>
       <p align="center"><b>Registration Page</b></p>
     </td>
     <td>
-      <img src="./images/Login Page.png" alt="Sign In Page" width="200"/>
+      <img src="./images/LoginPage.png" alt="Sign In Page" width="200"/>
       <p align="center"><b>Sign In Page</b></p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./images/User Dashboard.png" alt="Dashboard" width="200"/>
-      <p align="center"><b>USer Dashboard</b></p>
+      <img src="./images/UserDashboard.png" alt="User Dashboard" width="200"/>
+      <p align="center"><b>User Dashboard</b></p>
     </td>
     <td>
-      <img src="./images/Writers Dashboard.png" alt="Dashboard" width="200"/>
+      <img src="./images/WritersDashboard.png" alt="Writer Dashboard" width="200"/>
       <p align="center"><b>Writer Dashboard</b></p>
     </td>
     <td>
-      <img src="./images/Update Profile.png" alt="Settings Page" width="200"/>
+      <img src="./images/AdminDashboard.png" alt="Admin Dashboard" width="200"/>
+      <p align="center"><b>Admin Dashboard</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./images/UpdateProfile.png" alt="Update Profile" width="200"/>
+      <p align="center"><b>Update Profile</b></p>
+    </td>
+    <td>
+      <img src="./images/ChangePassword.png" alt="Change Password" width="200"/>
+      <p align="center"><b>Change Password</b></p>
+    </td>
+    <td>
+      <img src="./images/ExplorePage.png" alt="Explore Page" width="200"/>
+      <p align="center"><b>Explore Page</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./images/AddContentPage.png" alt="Add Content Page" width="200"/>
+      <p align="center"><b>Add Content</b></p>
+    </td>
+    <td>
+      <img src="./images/EditContentPage.png" alt="Edit Content Page" width="200"/>
+      <p align="center"><b>Edit Content</b></p>
+    </td>
+    <td>
+      <img src="./images/" alt="Settings Page" width="200"/>
       <p align="center"><b>Profile Update Page</b></p>
     </td>
   </tr>
