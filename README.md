@@ -70,39 +70,39 @@ The platform is built using the Bootstrap framework for responsive design and us
   </tr>
   <tr>
     <td>
-      <img src="./images/UserDashboard.png" alt="User Dashboard" width="200"/>
+      <img src="./images/UserDashboard.png" alt="User Dashboard" width="350"/>
       <p align="center"><b>User Dashboard</b></p>
     </td>
     <td>
-      <img src="./images/WritersDashboard.png" alt="Writer Dashboard" width="200"/>
+      <img src="./images/WritersDashboard.png" alt="Writer Dashboard" width="350"/>
       <p align="center"><b>Writer Dashboard</b></p>
     </td>
     <td>
-      <img src="./images/AdminDashboard.png" alt="Admin Dashboard" width="200"/>
+      <img src="./images/AdminDashboard.png" alt="Admin Dashboard" width="350"/>
       <p align="center"><b>Admin Dashboard</b></p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./images/UpdateProfile.png" alt="Update Profile" width="200"/>
+      <img src="./images/UpdateProfile.png" alt="Update Profile" width="350"/>
       <p align="center"><b>Update Profile</b></p>
     </td>
     <td>
-      <img src="./images/ChangePassword.png" alt="Change Password" width="200"/>
+      <img src="./images/ChangePassword.png" alt="Change Password" width="350"/>
       <p align="center"><b>Change Password</b></p>
     </td>
     <td>
-      <img src="./images/ExplorePage.png" alt="Explore Page" width="200"/>
+      <img src="./images/ExplorePage.png" alt="Explore Page" width="350"/>
       <p align="center"><b>Explore Page</b></p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./images/AddContentPage.png" alt="Add Content Page" width="200"/>
+      <img src="./images/AddContentPage.png" alt="Add Content Page" width="350"/>
       <p align="center"><b>Add Content</b></p>
     </td>
     <td>
-      <img src="./images/EditContentPage.png" alt="Edit Content Page" width="200"/>
+      <img src="./images/EditContentPage.png" alt="Edit Content Page" width="350"/>
       <p align="center"><b>Edit Content</b></p>
     </td>
     <td>
