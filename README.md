@@ -52,7 +52,6 @@ To set up and run the WritersHouse platform locally, follow these steps:
 The platform is built using the Bootstrap framework for responsive design and user interface components. Ensure that Bootstrap CSS and JavaScript files are included in your project to maintain the expected appearance and functionality.
 
 ## Screenshots
-## Project Screenshots
 
 <table>
   <tr>
@@ -71,22 +70,47 @@ The platform is built using the Bootstrap framework for responsive design and us
   </tr>
   <tr>
     <td>
-      <img src="./images/UserDashboard.png" alt="User Dashboard" width="350"/>
+      <img src="./images/UserDashboard.png" alt="User Dashboard" width="200"/>
       <p align="center"><b>User Dashboard</b></p>
     </td>
     <td>
-      <img src="./images/WritersDashboard.png" alt="Writer Dashboard" width="350"/>
+      <img src="./images/WritersDashboard.png" alt="Writer Dashboard" width="200"/>
       <p align="center"><b>Writer Dashboard</b></p>
     </td>
     <td>
-      <img src="./images/UpdateProfile.png" alt="Profile Update Page" width="350"/>
-      <p align="center"><b>Profile Update Page</b></p>
+      <img src="./images/AdminDashboard.png" alt="Admin Dashboard" width="200"/>
+      <p align="center"><b>Admin Dashboard</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./images/UpdateProfile.png" alt="Update Profile" width="200"/>
+      <p align="center"><b>Update Profile</b></p>
+    </td>
+    <td>
+      <img src="./images/ChangePassword.png" alt="Change Password" width="200"/>
+      <p align="center"><b>Change Password</b></p>
+    </td>
+    <td>
+      <img src="./images/ExplorePage.png" alt="Explore Page" width="200"/>
+      <p align="center"><b>Explore Page</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./images/AddContentPage.png" alt="Add Content Page" width="200"/>
+      <p align="center"><b>Add Content</b></p>
+    </td>
+    <td>
+      <img src="./images/EditContentPage.png" alt="Edit Content Page" width="200"/>
+      <p align="center"><b>Edit Content</b></p>
+    </td>
+    <td>
+      <img src="./images/" alt="Extra" width="350"/>
+      <p align="center"><b>Extra</b></p>
     </td>
   </tr>
 </table>
-
-
-
 
 ## Conclusion
 
