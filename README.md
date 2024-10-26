@@ -1,117 +1,28 @@
-# WritersHouse
+# Ideamagix Test Project
 
-WritersHouse is an interactive storytelling platform designed to connect writers and readers. It provides a space for writers to showcase their literary work and for readers to explore and engage with various types of content. The platform includes features such as community interaction, content review, audio storytelling, and music integration.
+### Tech Stack Used:
+- HTML
+- CSS
+- Javascript
 
-## Index
+### Libraries Used:
+- Owl Carousel
 
-1. [Features](#features)
-2. [Setup and Running the Project](#setup-and-running-the-project)
-3. [Project Build](#project-build)
-4. [Screenshots](#screenshots)
-5. [Conclusion](#conclusion)
+### Features and Achievements:
+- Created entire website from scratch using HTML and vanilla CSS.
+- Made the webpage responsive for Desktop, Tablet and Mobile devices.
+- Successfully added lazy loading to images.
+- Tested website on Chrome, Firefox and Edge browsers.
+- Used pure javascript for responsive items such as navigation menu.
+- Implemented sliders using Owl Carousel and CDN.
+- Included Page Loader to give loading effect during page rendering.
+- Successfully hosted the website using netlify hosting service.
 
-## Features
+### Project Preview Link:
+https://medical-website-test.netlify.app/
 
-- **Writing Showcase**: Allows writers to share their literary compositions, including short stories, essays, articles, and poetry.
-- **Reading Others' Work**: Enables users to explore and comment on the works of their peers.
-- **Community Interaction**: Facilitates one-to-one chat interactions between users and writers.
-- **Reviewing Others' Content**: Provides a platform for users to review and critique works.
-- **Audio Tools**: Offers features for listening to content, enhancing accessibility.
-- **Music Tools**: Integrates music into the reading experience.
-- **Search and Discovery**: Includes advanced search options for exploring content.
-- **Feedback System**: Allows users to provide feedback visible only to administrators.
-- **Enhanced User Interface (UI)**: Features a user-friendly design for easy navigation.
+### Project Screen Recording Link:
+[Click Here for Screen Recordings](https://drive.google.com/drive/folders/1KbcModPDMFvS2fslPuN4wBkRQNeDHHv9?usp=sharing)
 
-## Setup and Running the Project
-
-To set up and run the WritersHouse platform locally, follow these steps:
-
-1. **Clone the Repository**
-   - Copy the repository to your local machine and place it in the `htdocs` folder of your XAMPP installation.
-
-2. **Update Apache Configuration**
-   - Open the `httpd.conf` file located in the `apache/conf` directory of your XAMPP installation.
-   - Modify the `DocumentRoot` and `<Directory>` directives to point to the `Writers_House` folder:
-     ```apache
-     DocumentRoot "C:/xampp/htdocs/Writers_House"
-     <Directory "C:/xampp/htdocs/Writers_House">
-     ```
-   - Save and close the file.
-
-3. **Set Up the Database**
-   - Start the XAMPP Control Panel and ensure the Apache and MySQL services are running.
-   - Access phpMyAdmin by navigating to `http://localhost/phpmyadmin` in your web browser.
-   - Create a new database named `writers_house`.
-   - Import the SQL file located in the `sql/` folder into the `writers_house` database.
-
-4. **Start the Platform**
-   - Open your web browser and navigate to `http://localhost/Writers_House` to access the platform.
-
-## Project Build
-
-The platform is built using the Bootstrap framework for responsive design and user interface components. Ensure that Bootstrap CSS and JavaScript files are included in your project to maintain the expected appearance and functionality.
-
-## Screenshots
-
-<table>
-  <tr>
-    <td>
-      <img src="./images/Homepage.png" alt="Home Page" width="350"/>
-      <p align="center"><b>Home Page</b></p>
-    </td>
-    <td>
-      <img src="./images/RegistrationPage.png" alt="Registration Page" width="350"/>
-      <p align="center"><b>Registration Page</b></p>
-    </td>
-    <td>
-      <img src="./images/LoginPage.png" alt="Sign In Page" width="350"/>
-      <p align="center"><b>Sign In Page</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./images/UserDashboard.png" alt="User Dashboard" width="350"/>
-      <p align="center"><b>User Dashboard</b></p>
-    </td>
-    <td>
-      <img src="./images/WritersDashboard.png" alt="Writer Dashboard" width="350"/>
-      <p align="center"><b>Writer Dashboard</b></p>
-    </td>
-    <td>
-      <img src="./images/AdminDashboard.png" alt="Admin Dashboard" width="350"/>
-      <p align="center"><b>Admin Dashboard</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./images/UpdateProfile.png" alt="Update Profile" width="350"/>
-      <p align="center"><b>Update Profile</b></p>
-    </td>
-    <td>
-      <img src="./images/ChangePassword.png" alt="Change Password" width="350"/>
-      <p align="center"><b>Change Password</b></p>
-    </td>
-    <td>
-      <img src="./images/ExplorePage.png" alt="Explore Page" width="350"/>
-      <p align="center"><b>Explore Page</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./images/AddContentPage.png" alt="Add Content Page" width="350"/>
-      <p align="center"><b>Add Content</b></p>
-    </td>
-    <td>
-      <img src="./images/EditContentPage.png" alt="Edit Content Page" width="350"/>
-      <p align="center"><b>Edit Content</b></p>
-    </td>
-    <td>
-      <img src="./images/" alt="Extra" width="350"/>
-      <p align="center"><b>Extra</b></p>
-    </td>
-  </tr>
-</table>
-
-## Conclusion
-
-WritersHouse combines traditional storytelling with modern digital features to create a rich environment for writers and readers. By following the setup instructions, you can deploy the platform locally and explore its functionalities. Enjoy building and engaging with this dynamic storytelling platform!
+### Project Screenshot:
+![Aafiya-Mediretreats-Mitesh](https://github.com/Mcraze/Medical-Website-Template/assets/84672998/ca9d1a48-9245-4443-a2b8-fbbbb01f51a2)
