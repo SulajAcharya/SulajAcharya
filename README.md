@@ -58,10 +58,15 @@ This project is a **classic Snake Game** implemented in Python using the **Pygam
 
 ## Acknowledgments 🙌
 This project would not have been possible without the support and inspiration from the following:
-   - <a href="https://www.python.org/"> Python</a>: The versatile and beginner-friendly programming language that forms the foundation of this project.
-   - Python: The versatile and beginner-friendly programming language that forms the foundation of this project.
-   - Pygame: A powerful library that simplifies the creation of games with Python, providing tools for graphics, sound, and event handling.
+   - <a href="https://www.python.org/" target="_blank"> Python </a>: The versatile and beginner-friendly programming language that forms the foundation of this project.
+   - <a href="https://www.pygame.org/news" target="_blank"> Pygame </a>: A powerful library that simplifies the creation of games with Python, providing tools for graphics, sound, and event handling.
    - The Open-Source Community: For providing countless resources, tutorials, and inspiration for learning and building projects like this.
    - Game Developers of the Past: A tribute to the creators of the classic Snake game, which has entertained generations of players and sparked countless recreations.
    - My Learning Journey: This project is a result of exploring Python programming and game development, and it represents an exciting step in my growth as a developer.
    - Friends and Family: For their encouragement and motivation to pursue creative coding projects.
+
+---
+
+## License 📜
+This project is open-source and available under the MIT License.
+Feel free to use, modify, and share it as you wish!
