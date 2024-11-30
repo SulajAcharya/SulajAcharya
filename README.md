@@ -39,4 +39,29 @@ This project is a **classic Snake Game** implemented in Python using the **Pygam
    git clone https://github.com/your_username/SnakeGamePycharm.git
    cd SnakeGamePycharm
 
-2. **Install Dependencies: Ensure you have Python installed on your system. Then, install the required library:
+2. **Install Dependencies**: Ensure you have Python installed on your system. Then, install the required library:
+   ```bash
+   pip install pygame
+
+3. **Run the Game**: Execute the Python script to start the game:
+   ```bash
+   python snake_game.py
+
+---
+
+## Customization 🛠️
+   - Window Size: Modify screen_width and screen_height variables in the script.
+   - Snake Speed: Change the value of clock.tick(10) to adjust the game's speed.
+   - Colors: Adjust the RGB values in the red, green, gold, and background variables.
+
+---
+
+## Acknowledgments 🙌
+This project would not have been possible without the support and inspiration from the following:
+   - <a href="https://www.python.org/"> Python</a>: The versatile and beginner-friendly programming language that forms the foundation of this project.
+   - Python: The versatile and beginner-friendly programming language that forms the foundation of this project.
+   - Pygame: A powerful library that simplifies the creation of games with Python, providing tools for graphics, sound, and event handling.
+   - The Open-Source Community: For providing countless resources, tutorials, and inspiration for learning and building projects like this.
+   - Game Developers of the Past: A tribute to the creators of the classic Snake game, which has entertained generations of players and sparked countless recreations.
+   - My Learning Journey: This project is a result of exploring Python programming and game development, and it represents an exciting step in my growth as a developer.
+   - Friends and Family: For their encouragement and motivation to pursue creative coding projects.
